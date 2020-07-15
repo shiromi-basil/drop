@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
     flutter run
 
 ## Screenshots
-Input & Output
+![Demo GIF](demo/demo-01.gif)
 
 ## Built With
 * [Flutter](https://flutter.dev/docs)
