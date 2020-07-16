@@ -38,8 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 * Shiromi Basil - [shiromi-basil](https://github.com/shiromi-basil)
-
-See also the list of [contributors](https://github.com/shiromi-basil/drop/graphs/contributors) who participated in this project.
+* Sajani Sihara - [sajani-sihara](https://github.com/sajani-sihara)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
